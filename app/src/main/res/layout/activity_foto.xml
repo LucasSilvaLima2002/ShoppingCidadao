@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/textinst"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Foto">
+
+
+    <ImageView
+        android:id="@+id/imageView_StorageUpload"
+        android:layout_width="300dp"
+        android:layout_height="300dp" />
+
+    <Button
+        android:id="@+id/button_StorageUpload_Enviar"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="80dp"
+        android:text="Enviar"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:backgroundTint="@color/black" />
+
+    <Button
+        android:id="@+id/bt_deslogar"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:text="Deslogar"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:backgroundTint="@color/black"
+        app:layout_constraintTop_toBottomOf="@id/button_StorageUpload_Enviar" />
+
+    <TextView
+        android:id="@+id/bt_instrução"
+        android:layout_width="225dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:drawableRight="@drawable/ic_seta"
+        android:drawableTint="@color/black"
+        android:text="Instruções para foto"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

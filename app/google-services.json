@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034331746252",
+    "project_id": "shopping-cidadao-4319f",
+    "storage_bucket": "shopping-cidadao-4319f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034331746252:android:d10d61498246a28e3db769",
+        "android_client_info": {
+          "package_name": "com.example.shoppingcidado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034331746252-f4vujtdipl3nopuogtlg2fnb53n363n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtuHQWVHpIIQQPteSEr62yEFkgQAFnUp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034331746252-f4vujtdipl3nopuogtlg2fnb53n363n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

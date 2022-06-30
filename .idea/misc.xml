@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/background.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/buttom.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/buttom2.xml" value="0.39895833333333336" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/component.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/container_components.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/container_user.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/edit_teste.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/edit_text.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2234375" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/ic_baseline_photo_library_24.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/ic_camera_24dp.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/ic_cpf.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/ic_documenta__o.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/ic_email.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/ic_eye.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/ic_galeria_24dp.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/ic_nome.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/ic_shopping_background.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/drawable/upload.xml" value="0.39895833333333336" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/activity_dialog_alerta.xml" value="0.3875" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/activity_dialog_progress.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/activity_escolha_carteira.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/activity_form_cadastro.xml" value="0.3579474342928661" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/activity_form_foto.xml" value="0.3828125" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/activity_form_login.xml" value="0.36875" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/activity_form_recuperacao_senha.xml" value="0.3875" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/activity_foto.xml" value="0.25" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/activity_from_login.xml" value="0.1484375" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/activity_instrucoes.xml" value="0.3828125" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/activity_instrucoes_motorista.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/activity_login.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/activity_main.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/activity_tela_principal.xml" value="0.2994791666666667" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/dialog_alerta.xml" value="0.3875" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/dialog_progress.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/layout/menu_storage_upload.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/menu/menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/menu/menu_storage_upload.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/mipmap-anydpi-v26/ic_logo 2.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/mipmap-anydpi-v26/ic_logo 2_round.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/mipmap-anydpi-v26/ic_logo.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/mipmap-anydpi-v26/ic_logo_2_round.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/mipmap-anydpi-v26/ic_logo_round.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/mipmap-anydpi-v26/ic_shopping.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/mipmap-anydpi-v26/ic_shopping_round.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/teste/AndroidStudioProjects/Shoppingcidado/app/src/main/res/xml/provider.xml" value="0.2125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.36875" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
